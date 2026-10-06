@@ -1,35 +1,18 @@
 # Cyber Skiez
 
-Welcome to my portfolio! I’m a developer passionate about building clean, efficient, and user-friendly digital experiences.
+Welcome to my portfolio! I’m a non-traditional student of cybersecurity, and I hold a Google Data Analytics certification.
 
-## About Me
-
-I enjoy solving problems through code, learning new technologies, and turning ideas into functional products. This portfolio highlights my work, skills, and interests across software development and design.
 
 ## Skills
 
 ### Programming Languages
-- HTML
-- CSS
-- JavaScript
-- TypeScript
 - Python
 - SQL
+- R
 
-### Frontend
-- React
-- Next.js
-- Tailwind CSS
-- Responsive Design
-- UI/UX Fundamentals
 
-### Backend & Tools
-- Node.js
-- Express
-- Git/GitHub
-- REST APIs
-- Testing
-- Deployment
+
+
 
 ## Projects
 
