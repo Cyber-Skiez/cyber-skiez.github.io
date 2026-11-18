@@ -2,57 +2,42 @@
 
 Welcome to my portfolio! I’m a non-traditional student of cybersecurity, and I hold a Google Data Analytics certification.
 
-
 ## Skills
 
-### Programming Languages
-- Python
-- SQL
-- R
-
-
-
-
+## Programming Languages - Python, SQL, R
+## Data Analysis - Wrangling, cleaning, visualization, ETL, analysis...
+## Prompt engineering, Kali Linux, problem solving, ability to see patterns,
 
 ## Projects
+-In progress
 
-### Project 1: Personal Portfolio Website
-- Built a responsive personal portfolio to showcase my work and skills.
-- Focused on clean design, accessibility, and mobile-friendly layout.
-- Technologies: HTML, CSS, JavaScript
+## Project 1: Personal Portfolio Website
+-In progress
 
-### Project 2: Web App / Product Concept
+## Project 2: Web App / Product Concept
 - Created a responsive web app focused on usability and performance.
 - Implemented modern UI patterns and streamlined interactions.
 - Technologies: React, CSS, API Integration
 
-### Project 3: Automation / Utility Tool
-- Built a tool to simplify repetitive tasks and improve efficiency.
-- Emphasized reliability, maintainability, and user experience.
-- Technologies: Python, CLI tools, Automation
-
-## Experience
-
-- Working on personal and professional projects focused on web development and software engineering.
-- Continuously improving technical skills through building, experimenting, and learning.
-
 ## Education
 
-- Bachelor’s / Associate’s / Self-Taught learning path (replace with your details)
-- Relevant coursework, certifications, or training (optional)
+- Currently attending Western Governors University (BS Cybersecurity
+- and Information Assurance / Google Data Analytics Professional Certificate
+- Statistics: The Basics and Probability Certificate/ Introduction to Data Science
+- Splunk: Using Fields/ Cybersecurity Awareness: Cloud Security
 
 ## Hobbies & Interests
 
-- Technology and innovation
-- Design and user experience
-- Learning new frameworks and tools
-- Problem solving and building helpful projects
+-Technology
+-Reading
+-Learning
+-Gardening/Bonsai
 
 ## Contact
 
-- Email: your.email@example.com
+- Email: slope212@wgu.edu
 - GitHub: https://github.com/Cyber-Skiez
-- LinkedIn: your-linkedin-profile
+- LinkedIn: www.linkedin.com/in/samuel-a-lopez-jr 
 - Portfolio: https://cyber-skiez.github.io
 
 ## Thanks for Visiting
@@ -61,4 +46,3 @@ Thank you for taking the time to explore my work. I’m always open to collabora
 
 ---
 
-You can customize this template with your real projects, skills, experience, and contact details.
